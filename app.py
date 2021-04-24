@@ -21,7 +21,7 @@ def predict():
     output = int(prediction[0])
 
     if output == 0:
-        return render_template('heart.html', prediction_text= 'Yayyy! Your will not suffer from heart disease')
+        return render_template('heart.html', prediction_text= 'Yayyy! You shall not suffer from Heart disease')
     else:
         return render_template('heart.html', prediction_text= 'Opps! There is a chance of Heart Disease') 
 
