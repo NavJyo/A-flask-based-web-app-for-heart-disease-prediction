@@ -11,7 +11,9 @@ Table of Content
 
 Demo
 
-Link: https://heart26.herokuapp.com
+Link: 
+https://heart26.herokuapp.com
+
 ![heart](https://user-images.githubusercontent.com/36689965/120914900-8311cd80-c6be-11eb-8615-880c90ff3e0a.JPG)
 
 Overview
@@ -60,6 +62,8 @@ Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result 
 
 Technologies Used 
+
+
 ![images](https://user-images.githubusercontent.com/36689965/120914925-a3da2300-c6be-11eb-84a3-f84380c776d7.jpg)
 ![python](https://user-images.githubusercontent.com/36689965/117563454-97fd4000-b0c3-11eb-866b-3929f09b6cbc.jpg)
 ![heroku](https://user-images.githubusercontent.com/36689965/117563393-2ae9aa80-b0c3-11eb-9731-2c681ca645d6.png) ![sklearn](https://user-images.githubusercontent.com/36689965/117563487-e1e62600-b0c3-11eb-83bb-e6cb104408f2.png)
