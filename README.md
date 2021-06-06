@@ -1,4 +1,4 @@
-Chronic Kidney Disease Prediction:
+Heart Disease Prediction:
 
 Table of Content
 1. Demo
@@ -18,7 +18,7 @@ https://heart26.herokuapp.com
 
 Overview
 
-This is a simple Flask web app which predicts whether a patient is having heart diseaase or not. 
+This is a simple Flask web app which predicts whether a patient is having heart disease or not. 
 
 Motivation
 
